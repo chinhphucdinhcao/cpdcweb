@@ -1,4 +1,4 @@
-# QHS-s-Olympia-Club
+# Chinh Phuc Dinh Cao Web
 Official website of Chinh Phuc Dinh Cao, Quang Tri Town HS, by Hoàng Công Sơn
 References: LittleSnippets.net/3D images gallery Bobby/Vertical Timeline Sava Lazic.
 
